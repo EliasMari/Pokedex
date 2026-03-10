@@ -1,31 +1,75 @@
-# router
+# 📚 Pokédex
 
-Deployed to: https://pokedex-eliasmari.netlify.app
+![GitHub repo size](https://img.shields.io/github/repo-size/EliasMari/Pokedex)
+![GitHub stars](https://img.shields.io/github/stars/EliasMari/Pokedex?style=social)
+![GitHub forks](https://img.shields.io/github/forks/EliasMari/Pokedex?style=social)
+![GitHub license](https://img.shields.io/github/license/EliasMari/Pokedex)
 
-This template should help get you started developing with Vue 3 in Vite.
+Una **Pokédex web interactiva** que permite consultar información de Pokémon consumiendo una API pública.  
+La aplicación obtiene los datos en tiempo real y los muestra en una interfaz dinámica y fácil de usar.
 
-## Recommended IDE Setup
+Este proyecto está pensado para practicar:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Consumo de **APIs REST**
+- Manejo de **datos asíncronos**
+- Desarrollo **frontend moderno**
+- Organización y documentación de proyectos
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+# 🚀 Documentación
 
-## Project Setup
+La documentación completa del proyecto está disponible en Mintlify.
 
-```sh
-npm install
-```
+👉 https://eliasmari-pokedex-54.mintlify.app
 
-### Compile and Hot-Reload for Development
+En la documentación encontrarás:
 
-```sh
-npm run dev
-```
+- Introducción al proyecto
+- Arquitectura
+- Uso de la API
+- Explicación del código
+- Guía para desarrolladores
 
-### Compile and Minify for Production
+---
 
-```sh
-npm run build
-```
+# ✨ Características
+
+- 🔍 Búsqueda de Pokémon
+- 📄 Visualización de información detallada
+- ⚡ Consumo de datos desde API
+- 🎨 Interfaz web interactiva
+- 📚 Documentación técnica completa
+
+---
+
+# 🛠️ Tecnologías utilizadas
+
+| Tecnología | Descripción |
+|-----------|-------------|
+| HTML | Estructura de la aplicación |
+| CSS | Estilos y diseño visual |
+| JavaScript | Lógica y consumo de la API |
+| REST API | Obtención de datos de Pokémon |
+| Git | Control de versiones |
+| GitHub | Hosting del repositorio |
+| Mintlify | Documentación técnica |
+
+---
+
+# 📂 Estructura del proyecto
+
+```bash
+Pokedex
+│
+├── public/               # Recursos públicos
+│
+├── src/                  # Código fuente principal
+│   ├── components/       # Componentes de interfaz
+│   ├── services/         # Conexión con APIs
+│   └── utils/            # Funciones auxiliares
+│
+├── docs/                 # Documentación del proyecto
+│
+├── package.json          # Dependencias del proyecto
+└── README.md             # Documentación principal
