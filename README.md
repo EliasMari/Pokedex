@@ -3,10 +3,11 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/EliasMari/Pokedex)
 ![GitHub stars](https://img.shields.io/github/stars/EliasMari/Pokedex?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/EliasMari/Pokedex?style=social)
-![GitHub license](https://img.shields.io/github/license/EliasMari/Pokedex)
 
 Una **Pokédex web interactiva** que permite consultar información de Pokémon consumiendo una API pública.  
 La aplicación obtiene los datos en tiempo real y los muestra en una interfaz dinámica y fácil de usar.
+
+https://pokedex-eliasmari.netlify.app/
 
 Este proyecto está pensado para practicar:
 
